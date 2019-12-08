@@ -2,6 +2,10 @@
 
 Using Kali Linux for Penetration Testing & Security Training on Docker
 
+## Getting Started
+
+From [Official Kali Linux Docker Image](https://registry.hub.docker.com/r/kalilinux/kali-linux-docker) + python htop net-tools openssl nmap metasploit-framework
+
 ### Usage
 
 #### Container Parameters
