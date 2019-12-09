@@ -5,6 +5,5 @@ RUN apt update -y \
     && apt dist-upgrade -y \
     && apt autoremove -y \
     && apt clean -y \
-    && apt autoclean -y
-
-RUN apt install python htop net-tools openssl nmap metasploit-framework -y
+    && apt autoclean -y \
+    && apt install python htop net-tools openssl nmap metasploit-framework -y
